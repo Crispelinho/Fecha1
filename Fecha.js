@@ -1,3 +1,12 @@
+function calcular(){
+
+	var fe = new fecha();
+    var resultado=eval(document.fo.Valores1.value);
+
+}
+
+
+
 var fecha =
 
  class {
